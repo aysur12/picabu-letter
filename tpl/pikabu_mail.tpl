@@ -279,7 +279,7 @@
                                           </table>
                                         </td>
                                       </tr>
-                                      <!--start-discounts-promo-codes При добавлении новых блоков скопировать этот блок-->
+                                      <!--start-discounts-promo-codes При добавлении новых блоков: копируем и далее редактиурем либо левый, либо правый, либо блок на всю ширину, в зависимости от нужного-->
                                       <tr>
                                         <td align="left" style="padding: 0 28px 16px; margin: 0">
                                           <!--начало левого блока-->
@@ -326,6 +326,28 @@
                                             </tbody>
                                           </table>
                                           <!--конец правого блока-->
+                                          <!--начало блока на всю ширину-->
+                                          <table class="es-left" cellspacing="0" cellpadding="0" align="left" style="width: 100%; margin-bottom: 16px; background-color: #ffffff; border-radius: 12px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse; border-spacing: 0px; float: left">
+                                            <tbody>
+                                              <tr>
+                                                <td colspan="2" style="height: 52px; padding: 12px 16px; border-bottom: 1px solid #e7e8ea; color: #1b1e24; font-size: 16px; font-weight: 700; line-height: 20px; font-family: 'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif">До 749 рублей скидки на смартфоны Xiaomi!</td>
+                                              </tr>
+                                              <tr>
+                                                <td style="padding: 8px 0 12px 16px">
+                                                  <span class="es-button-border" style="border-style: solid; border-color: #2cb543; background: #ffffff; border-width: 0px 0px 2px 0px; display: inline-block; border-radius: 30px; width: auto; border-bottom-width: 0px">
+                                                    <a href="{%discount_link%}" class="es-button" target="_blank" style="mso-style-priority: 100 !important; text-decoration: none; -webkit-text-size-adjust: none; -ms-text-size-adjust: none; mso-line-height-rule: exactly; color: #65ab3c; font-size: 12px; border-style: solid; border-color: #ffffff; border-width: 0px; display: inline-block; background: #ffffff; border-radius: 30px; font-family: arial, 'helvetica neue', helvetica, sans-serif; font-weight: bold; font-style: normal; line-height: 20px; width: auto; text-align: center"
+                                                      >Подробнее
+                                                      <!--[if !mso]><!-- -->
+                                                      <img src="https://pics.esputnik.com/repository/home/55450/images/msg/22963511/1588256438331.png" alt="icon" style="display: inline-block; border: 0; outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; vertical-align: middle; margin-left: 2px" width="6" align="absmiddle" />
+                                                      <!--<![endif]-->
+                                                    </a>
+                                                  </span>
+                                                </td>
+                                                <td style="text-align: right; padding: 8px 16px 12px; color: #70737b; font-size: 12px; font-weight: 700; line-height: 20px; font-family: 'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif">AliExpress</td>
+                                              </tr>
+                                            </tbody>
+                                          </table>
+                                          <!--конец блока на всю ширину-->
                                         </td>
                                       </tr>
                                       <!--finish-discounts-promo-codes-->
